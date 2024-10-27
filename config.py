@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", "21803165"))
-API_HASH = getenv("API_HASH", "05e5e695feb30e25bef47484cc006da7")
+API_ID = int(getenv("API_ID", "26341381"))
+API_HASH = getenv("API_HASH", "2762d6b85975700ffddae249e13911cf")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "7531575025"))
+OWNER_ID = int(getenv("OWNER_ID", "6283192619"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Purvi_UPdates")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "ll_BABY_ISTKHAR_ll")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "II_ISTKHAR_II")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "TEAM_RIYA_SUPPORT")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "KSD_BOT_NETWORK")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "KSDOFFICIAL84")
 
 # Random Start Images
 IMG = [
