@@ -137,9 +137,9 @@ async def greet_group(_, member: ChatMemberUpdated):
 ┣ 𝟓 ➥ 𝐆ɪᴠᴇ  ʀᴇsᴘᴇᴄᴛ , ᴛᴀᴋᴇ  ʀᴇsᴘᴇᴄᴛ 
 ┗━━━━━━━━━━━━━━━━━      
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [Tᴇᴀᴍ Rɪʏᴀ](https://t.me/KSD_BOT_NETWORK)
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [➻❥⏤͟͞ᴋʀɪsʜᴀɴ💸⎯ꨄ](https://t.me/censored_politicss)
 """,
-            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ Mᴀᴋᴇ ʏᴏᴜʀ ᴏɴ ʙᴏᴛ ⦿", url=f"https://t.me/KSDHEROKUCC/310")]])
+            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ Mᴀᴋᴇ ʏᴏᴜʀ ᴏwɴ ʙᴏᴛ ⦿", url=f"https://t.me/censored_politicss")]])
         )
     except Exception as e:
         LOGGER.error(e)
